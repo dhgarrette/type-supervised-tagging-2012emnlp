@@ -2,18 +2,18 @@
 [Jason Baldridge]: http://www.jasonbaldridge.com
 
 
-Type-supervised tagging: EMNLP 2012
+Type-Supervised Tagging: EMNLP 2012
 ===================================
 
 This repository contains the code, scripts, and instructions needed to reproduce the results in the paper
 
-  > [Type-Supervised Hidden Markov Models for POS Tagging with Incomplete Tag Dictionaries](http://www.cs.utexas.edu/users/dhg/papers/garrette_baldridge_emnlp2012.pdf)  
+  > [Type-Supervised Hidden Markov Models for Part-of-Speech Tagging with Incomplete Tag Dictionaries](http://www.cs.utexas.edu/users/dhg/papers/garrette_baldridge_emnlp2012.pdf)  
   > [Dan Garrette] and [Jason Baldridge]  
   > In Proceedings of EMNLP 2012
 
 This code is frozen as of the version used to obtain the results in the paper. It will not be maintained. 
 
-To see the most up-to-date version of the HMM code, visit the [scalabha](https://github.com/utcompling/Scalabha) repository.
+To see the most up-to-date version of the HMM code, visit [this](https://github.com/dhgarrette/nlp) repository.
 
 Running the experiments
 -------
