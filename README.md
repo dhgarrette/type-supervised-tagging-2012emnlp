@@ -13,7 +13,7 @@ This repository contains the code, scripts, and instructions needed to reproduce
 
 This code is frozen as of the version used to obtain the results in the paper. It will not be maintained. 
 
-To see the most up-to-date version of the HMM code, visit [this](https://github.com/dhgarrette/nlp) repository.
+To see the most up-to-date version of the code, visit [this](https://github.com/dhgarrette/low-resource-pos-tagging-2014) repository.
 
 Running the experiments
 -------
