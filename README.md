@@ -7,7 +7,7 @@ Type-Supervised Tagging: EMNLP 2012
 
 This repository contains the code, scripts, and instructions needed to reproduce the results in the paper
 
-  > [Type-Supervised Hidden Markov Models for Part-of-Speech Tagging with Incomplete Tag Dictionaries](http://www.cs.utexas.edu/users/dhg/papers/garrette_baldridge_emnlp2012.pdf)  
+  > [Type-Supervised Hidden Markov Models for Part-of-Speech Tagging with Incomplete Tag Dictionaries](http://www.cs.utexas.edu/users/ml/papers/garrette.emnlp12.pdf)  
   > [Dan Garrette] and [Jason Baldridge]  
   > In Proceedings of EMNLP 2012
 
